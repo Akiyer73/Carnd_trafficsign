@@ -1,7 +1,7 @@
 ### Carnd_trafficsign
 This repository contains the source code for the Traffic Sign classifier project
 
-## The RGB file
+## The RGB file ##
 The File Traffic_Sign_classifier_rgb.ipynb, in the root folder has the code for classifying the RGB traffic signs using CNN.
 
 ##Submission2 Folder
